@@ -1,4 +1,4 @@
-# CustomToken - YEKQT
+# CustomToken - ALY
 
 CustomToken is an ERC-20 token with additional functionalities, created using the OpenZeppelin library. The token contract includes features such as minting, transferring, and burning tokens.
 
@@ -42,5 +42,5 @@ Users can burn their own tokens using the `burnTokens` function.
 ### Minting Example:
 
 ```solidity
-// Mint 100 YEK tokens to a specific address
+// Mint 100 ALY tokens to a specific address
 mint(addressTo, 100);
