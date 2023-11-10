@@ -4,8 +4,8 @@ CustomToken is an ERC-20 token with additional functionalities, created using th
 
 ## Overview
 
-- **Token Name:** ALY
-- **Symbol:** ALYYY
+- **Token Name:** ALYANNA
+- **Symbol:** ALY
 - **Decimals:** 18
 
 ## Deployment
